@@ -1,0 +1,30 @@
+
+.bg-dark-brown {
+    background-color: #130658; /* สีน้ำตาลเข้ม */
+    color: #fff; /* ให้ข้อความเป็นสีขาวเพื่อความอ่านง่าย */
+
+}
+.booker-link strong {
+    margin-left: -10px; /* ปรับค่าตามที่ต้องการ */
+    color: #130658
+}
+
+
+
+h1{
+     font-family: 'Sriracha', sans-serif;
+     margin-top: 100px; /* ปรับค่าตามต้องการ */
+
+}
+h2 {
+      font-family: 'Sriracha', sans-serif;
+      color: #130658;
+    }
+h4 {
+     font-family: 'Kanit', sans-serif;
+       color: #130658;
+    }
+
+p {
+      font-family: 'Sarabun', sans-serif;
+    }
