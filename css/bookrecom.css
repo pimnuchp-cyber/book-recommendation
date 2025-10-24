@@ -28,3 +28,6 @@ h4 {
 p {
       font-family: 'Sarabun', sans-serif;
     }
+.div{
+    border: 2px solid purple
+}
